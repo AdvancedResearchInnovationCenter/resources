@@ -14,4 +14,4 @@
 4. [(Recommended) ROS1 Drivers for iniVation cameras: DV ROS](https://gitlab.com/inivation/dv/dv-ros)
 5. [tonic: event-based vision and audio datasets and event transformations](https://tonic.readthedocs.io/en/latest/)
 ## Tactile Sensing
-1. (ARIC's neuromorphic vision-based tactile sensing package)[https://github.com/AdvancedResearchInnovationCenter/nvbts]
+1. [ARIC's neuromorphic vision-based tactile sensing package](https://github.com/AdvancedResearchInnovationCenter/nvbts)
