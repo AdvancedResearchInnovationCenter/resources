@@ -6,8 +6,12 @@ Everyone is welcome and encouraged to contribute to ARIC's repos. To contribute 
    
 ## Preliminary courses
 1. [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
+4. [Python for robotics](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/python-robotics/)
 2. [ROS Basics in 5 Days (Python)](https://app.theconstructsim.com/courses/ros-basics-in-5-days-python-55/)
-3. [Deep learning](https://www.coursera.org/specializations/deep-learning)
+3. [Linux for robotics](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/linux-for-robotics/)
+4. [Basic Arm Kinematics](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/arm-kinematics/)
+5. [Basic maths for robotics](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/basic-maths-for-robotics/)
+6. [Deep learning](https://www.coursera.org/specializations/deep-learning)
 ## Running the robots
 1. [Connecting to ARIC network]()
 2. [ARIC's ROS Robot package](https://github.com/abdullaayyad96/ros_robot)
