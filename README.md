@@ -1,8 +1,11 @@
 # resources
 ## Contributing to ARIC's repositories
 Everyone is welcome and encouraged to contribute to ARIC's repos. To contribute please take into account the following guidelines:
-1. All repositories will have an assigned admin.
-2. NEVER push directly to the main branch of any repo. The preferred method is to make a branch, make your contributions there, and then submit a pull request to merge with main. This will be overseen by an admin who will approve the pull request. The only exception is this repo in which you can directly push. 
+1. Consult with cluster lead for information on best guidelines
+2. Almost NEVER push directly to the main branch of any repo. The preferred method is to make a branch, make your contributions there, and then submit a pull request to merge with main. This will be overseen by an admin who will approve the pull request. The only exception is this repo in which you can directly push.
+
+## Paper code
+Never make anything public until paper is accepted and published. You can link to the private repo in your manuscript and write that "code will be made public upon acceptance". 
    
 ## Preliminary courses
 1. [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
