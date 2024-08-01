@@ -17,6 +17,7 @@ Never make anything public until paper is accepted and published. You can link t
 6. [Deep learning](https://www.coursera.org/specializations/deep-learning)
 7. [Developing Web Interfaces for ROS GUI](https://www.theconstruct.ai/robotigniteacademy_learnros/ros-courses-library/web-interfaces-for-ros-robots/)
 8. [How to Install Ubuntu 20.04 LTS Desktop](https://phoenixnap.com/kb/install-ubuntu-20-04)
+9. [The Linux Commands Handbook](https://bjpcjp.github.io/pdfs/devops/linux-commands-handbook.pdf)
 ## Running the robots
 1. [Connecting to ARIC network]()
 2. [ARIC's ROS Robot package](https://github.com/abdullaayyad96/ros_robot)
